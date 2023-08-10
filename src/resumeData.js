@@ -1,4 +1,4 @@
-let resume = {
+let resumeData = {
   name: "Edward James Manansala",
   role: "Software Developer Student",
   socialLinks: [
@@ -28,6 +28,38 @@ let resume = {
       YearOfPassing: "2001",
     },
   ],
+  skillsDescription: "Programming, Software & Hardware",
+  skills: [
+    {
+      skillname: "HTML5",
+    },
+    {
+      skillname: "CSS",
+    },
+    {
+      skillname: "Reactjs",
+    },
+    {
+      skillname: "MongoDB",
+    },
+    {
+      skillname: "Java Script",
+    },
+  ],
+  portfolio: [
+    {
+      name: "Black-Jack",
+      description: "Java Script Web Game",
+      imgurl: "",
+      url: "https://dyamez.github.io/BlackJack-Milestone1/",
+    },
+    {
+      name: "Breads",
+      description: "mongoDB",
+      imgurl: "",
+      url: "https://project-rest-rant-6lha.onrender.com/",
+    },
+  ],
 };
 
-export default resume;
+export default resumeData;
