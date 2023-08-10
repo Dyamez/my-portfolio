@@ -1,6 +1,6 @@
 let resumeData = {
   name: "Edward James Manansala",
-  role: "Software Developer Student",
+  role: "Student Software Developer",
   socialLinks: [
     {
       name: "facebook",
@@ -50,13 +50,13 @@ let resumeData = {
     {
       name: "Black-Jack",
       description: "Java Script Web Game",
-      imgurl: "",
+      imgurl: "https://i.imgur.com/bu4FZeOm.jpg",
       url: "https://dyamez.github.io/BlackJack-Milestone1/",
     },
     {
       name: "Breads",
       description: "mongoDB",
-      imgurl: "",
+      imgurl: "https://i.imgur.com/Is394Jqm.jpg",
       url: "https://project-rest-rant-6lha.onrender.com/",
     },
   ],
